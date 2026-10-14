@@ -1,0 +1,6 @@
+#PYTHON/EXECUTE&EXPLAIN
+def main();
+print("hello from NGF Day 1!")
+
+if_ name_=="_main_":
+main()
